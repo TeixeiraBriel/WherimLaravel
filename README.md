@@ -1,4 +1,4 @@
-<h1> Wherim Laravel Fuções </h1>
+<h1> Wherim Laravel Funções </h1>
 
 
 *Considerações/Configurações inciais
